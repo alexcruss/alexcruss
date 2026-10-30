@@ -22,6 +22,6 @@ Ingénieur informatique à Lomé, Togo. J'automatise le travail répétitif et j
 
 ## Contact
 
-- Portfolio : [alexcruss.github.io/portfolio](https://alexcruss.github.io/portfolio/)
+- Portfolio : [pierredegboevi.com](https://pierredegboevi.com/)
 - LinkedIn : [pierre-kossi-degboevi](https://www.linkedin.com/in/pierre-kossi-degboevi)
 - X : [@PDegboevi](https://twitter.com/PDegboevi)
