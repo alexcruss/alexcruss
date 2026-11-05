@@ -24,4 +24,4 @@ Ingénieur informatique à Lomé, Togo. J'automatise le travail répétitif et j
 
 - Portfolio : [pierredegboevi.com](https://pierredegboevi.com/)
 - LinkedIn : [pierre-kossi-degboevi](https://www.linkedin.com/in/pierre-kossi-degboevi)
-- X : [@PDegboevi](https://twitter.com/PDegboevi)
+- X : [@PDegboevi](https://twitter.com/pierre_dkp)
